@@ -282,23 +282,5 @@ Este proyecto es propiedad de **LoyanCode** y está destinado exclusivamente par
   <br>
   <sub>© 2024 LoyanCode. Todos los derechos reservados.</sub>
 </div>
-```
 
-## 🎯 Características del README
-
-Este README incluye:
-
-1. **✅ Descripción completa** del proyecto y sus características
-2. **✅ Stack tecnológico detallado** con badges visuales
-3. **✅ Estructura de archivos** clara y organizada
-4. **✅ Pasos de instalación** paso a paso para otros desarrolladores
-5. **✅ Scripts disponibles** con explicaciones
-6. **✅ Guías de personalización** para modificar colores, traducciones, etc.
-7. **✅ Información de responsive design** y breakpoints
-8. **✅ Documentación de i18n** para añadir idiomas
-9. **✅ Instrucciones de despliegue** para diferentes plataformas
-10. **✅ Guías de contribución** y estándares de código
-
-El README está diseñado para que cualquier desarrollador pueda entender rápidamente el proyecto, instalarlo y comenzar a trabajar en él sin problemas.
-```
 
