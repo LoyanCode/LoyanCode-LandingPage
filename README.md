@@ -280,7 +280,7 @@ Este proyecto es propiedad de **LoyanCode** y está destinado exclusivamente par
 <div align="center">
   <sub>Desarrollado con ❤️ por el equipo de LoyanCode</sub>
   <br>
-  <sub>© 2024 LoyanCode. Todos los derechos reservados.</sub>
+  <sub>© 2025 LoyanCode. Todos los derechos reservados.</sub>
 </div>
 
 
